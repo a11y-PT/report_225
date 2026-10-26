@@ -2,7 +2,7 @@
 website: "nome_do_sítio_Web"          # Entre as aspas escreve o nome do website
 date: "31/12/1999"                    # Entre as aspas escreve a data de criação do 1º relatório. Os restantes estão no histórico
 uri: "https://dominio_sitio_web.pt"   # Entre as aspas escreve o domínio do website
-a11y_statement: "https://dominio_sitio_web.pt/acessibilidade" # Entre as aspas escreve o URL da Declaração de Acessibilidade do website
+a11y_statement: "https://www.ulssa.pt/v1F/declaracao-de-acessibilidade" # Entre as aspas escreve o URL da Declaração de Acessibilidade do website
 a11y_statement_date: "dd/mm/aaaa" # Data da declaração de acessibilidade
 owner: "nome_do_proprietário"         # Entre as aspas escrever o nome do owner do website
 seal: "qual_o_selo"                          # Entre as aspas escreve Bronze, Prata ou Ouro
